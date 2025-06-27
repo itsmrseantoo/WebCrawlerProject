@@ -1,1 +1,1 @@
-It's a small WebCrawler Java program I've done as a homework in class.
+It's a small Java WebCrawler program I completed as a class assignment.
